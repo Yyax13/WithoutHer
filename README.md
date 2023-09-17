@@ -4,7 +4,7 @@
 [![Lang](https://img.shields.io/badge/linguagem-Python-red.svg)](https://www.python.org/)
 [![Licença](https://img.shields.io/badge/licença-MIT-red.svg)](LICENSE)
 ![Versão](https://img.shields.io/badge/versão-1.0.0-red.svg)
-[![Lang](https://img.shields.io/badge/Necessito_de:-Rafaella_Mazetto_<3-red.svg)](https://instagram.com)
+[![Lang](https://img.shields.io/badge/Necessito_de:-Rafaella_Mazetto_<3-red.svg)](https://www.instagram.com/rafaellamazetto/)
 
 
 ## Instação
